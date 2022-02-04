@@ -143,11 +143,6 @@ function deletarColuna(){
     }
 }
 
-function mediaGeral(){
-    document.getElementById("mediageral1").innerText = mediageral / qtdAlunos
-    console.log(mediageral/qntAlunos)
-}
-
 // function sortTable(n) {
 //     var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
 //     table = document.getElementById("myTable2");
