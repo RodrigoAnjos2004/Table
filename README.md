@@ -1,4 +1,4 @@
-LOGIN
+TABELA MÉDIA DE ALUNOS
 ============
 ![imagem](https://github.com/RodrigoAnjos2004/Table/blob/main/images/Capturar.5.PNG?raw=true)
 
